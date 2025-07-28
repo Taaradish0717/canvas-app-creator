@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom protection app colors
+				shield: {
+					primary: 'hsl(var(--shield-primary))',
+					secondary: 'hsl(var(--shield-secondary))'
+				},
+				danger: 'hsl(var(--danger))',
+				warning: 'hsl(var(--warning))',
+				success: 'hsl(var(--success))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
